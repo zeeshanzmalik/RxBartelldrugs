@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-13T13:57:02 EDT" name="bd-RX.Bartelldrugs Automation Test Suite" finished-at="2021-07-13T13:57:19 EDT" duration-ms="17004">
+    <groups>
+    </groups>
+    <test started-at="2021-07-13T13:57:02 EDT" name="bd-RX.Bartelldrugs Test Cases" finished-at="2021-07-13T13:57:19 EDT" duration-ms="17004">
+      <class name="com.bartelldrugs.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:02 EDT" name="setUp" finished-at="2021-07-13T13:57:07 EDT" duration-ms="5583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateBartellImageTest()[pri:1, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:07 EDT" name="validateBartellImageTest" finished-at="2021-07-13T13:57:07 EDT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBartellImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:07 EDT" name="tearDown" finished-at="2021-07-13T13:57:08 EDT" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:08 EDT" name="setUp" finished-at="2021-07-13T13:57:13 EDT" duration-ms="4759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:13 EDT" name="loginTest" finished-at="2021-07-13T13:57:18 EDT" duration-ms="5259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bartelldrugs.qa.testcases.LoginPageTest@11fc564b]" started-at="2021-07-13T13:57:18 EDT" name="tearDown" finished-at="2021-07-13T13:57:19 EDT" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bartelldrugs.qa.testcases.LoginPageTest -->
+    </test> <!-- bd-RX.Bartelldrugs Test Cases -->
+  </suite> <!-- bd-RX.Bartelldrugs Automation Test Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="bd-RX.Bartelldrugs Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="bd-RX.Bartelldrugs Test Cases">
+		<classes>
+			<class name="com.bartelldrugs.qa.testcases.LoginPageTest"></class>
+			<class name="com.bartelldrugs.qa.testcases.HomePageTest"></class>
+
+		</classes>
+	</test>
+</suite>
