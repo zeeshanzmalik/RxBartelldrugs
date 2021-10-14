@@ -85,11 +85,6 @@
 			<version>2.41.2</version>
 		</dependency>
 		
-		<dependency>
-			<groupId>com.aventstack</groupId>
-			<artifactId>extentreports-testng-adapter</artifactId>
-			<version>1.2.1</version>
-		</dependency>
 
 	</dependencies>
 
